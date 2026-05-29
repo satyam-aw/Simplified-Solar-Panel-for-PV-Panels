@@ -1,6 +1,6 @@
-PWD /mnt/c/Users/satya/OneDrive/Documents/solarPVLatex
+PWD /mnt/c/Users/satya/OneDrive/Documents/Simplified-Solar-Panel-for-PV-Panels/Documentation
 INPUT /home/satyam/.miktex/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt
-INPUT /mnt/c/Users/satya/OneDrive/Documents/solarPVLatex/a.tex
+INPUT /mnt/c/Users/satya/OneDrive/Documents/Simplified-Solar-Panel-for-PV-Panels/Documentation/a.tex
 OUTPUT a.log
 INPUT /home/satyam/.miktex/texmfs/install/tex/latex/base/article.cls
 INPUT /home/satyam/.miktex/texmfs/install/tex/latex/base/article.cls
