@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.5.25)  29 MAY 2026 14:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.5.25)  3 JUN 2026 12:54
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -375,13 +375,13 @@ Package rerunfilecheck Info: File `a.out' has not changed.
 Here is how much of TeX's memory you used:
  10104 strings out of 469628
  155154 string characters out of 5466922
- 581337 words of memory out of 5000000
+ 581333 words of memory out of 5000000
  38797 multiletter control sequences out of 15000+600000
  635818 words of font info for 68 fonts, out of 8000000 for 9000
  0 hyphenation exceptions out of 8191
  75i,9n,79p,652b,450s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/satyam/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1095.pk></home/satyam/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx10.pfb></home/satyam/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></home/satyam/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></home/satyam/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></home/satyam/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr17.pfb></home/satyam/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmss10.pfb></home/satyam/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></home/satyam/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy8.pfb></home/satyam/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on a.pdf (3 pages, 1150958 bytes).
+Output written on a.pdf (3 pages, 1151720 bytes).
 PDF statistics:
  116 PDF objects out of 1000 (max. 8388607)
  16 named destinations out of 1000 (max. 500000)
